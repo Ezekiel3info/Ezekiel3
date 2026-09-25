@@ -1,0 +1,181 @@
+---
+// Blog post layout: header, reserved ad slots, hero, title, body, footer.
+// Used by every post under src/content/blog/.
+
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+
+type Props = CollectionEntry<'blog'>['data'];
+
+// Fields from the post's frontmatter (title, dates, optional hero image).
+const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+---
+
+<html lang="en">
+	<head>
+		{/* Tab title, description, and shared site CSS */}
+		<BaseHead title={title} description={description} />
+		<style>
+			/* Page column */
+			main {
+				width: calc(100% - 2em);
+				max-width: 100%;
+				margin: 0;
+			}
+
+			/* Optional image at the top of the post */
+			.hero-image {
+				width: 100%;
+			}
+			.hero-image img {
+				display: block;
+				margin: 0 auto;
+				border-radius: 12px;
+				box-shadow: var(--box-shadow);
+			}
+
+			/* Readable text column (~720px) */
+			.prose {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 1em;
+				color: rgb(var(--gray-dark));
+			}
+
+			/* Date + headline above the article */
+			.title {
+				margin-bottom: 1em;
+				padding: 1em 0;
+				text-align: center;
+				line-height: 1;
+			}
+			.title h1 {
+				margin: 0 0 0.5em 0;
+			}
+			.date {
+				margin-bottom: 0.5em;
+				color: rgb(var(--gray));
+			}
+			.last-updated-on {
+				font-style: italic;
+			}
+
+			/* Shared look for every ad placeholder */
+			.ad-slot {
+				margin: 1.75rem auto;
+				text-align: center;
+			}
+			.ad-label {
+				display: block;
+				font-size: 0.7rem;
+				letter-spacing: 0.08em;
+				text-transform: uppercase;
+				color: rgb(var(--gray));
+				margin-bottom: 0.4rem;
+			}
+			.ad-frame {
+				margin: 0 auto;
+				background: color-mix(in srgb, rgb(var(--gray)) 12%, transparent);
+				border: 1px dashed color-mix(in srgb, rgb(var(--gray)) 35%, transparent);
+				border-radius: 8px;
+			}
+
+			/* AD SLOT: ad-top — leaderboard 728×90 */
+			.ad-top .ad-frame {
+				width: min(728px, 100%);
+				min-height: 90px;
+			}
+
+			/* AD SLOT: ad-in-1 and ad-in-2 — rectangle 336×280 */
+			.ad-in-1 .ad-frame,
+			.ad-in-2 .ad-frame {
+				width: min(336px, 100%);
+				min-height: 280px;
+			}
+		</style>
+	</head>
+
+	<body>
+		{/* Site navigation */}
+		<Header />
+
+		<main>
+			<article>
+				{/* =========================================================
+				    AD SLOT 1 of 3 — "ad-top"
+				    Size to sell: 728×90 (leaderboard), full width on mobile
+				    Place: above the hero image
+				    Later: put AdSense or a sponsor <a><img></a> inside .ad-frame
+				    ========================================================= */}
+				<aside class="ad-slot ad-top" data-ad-slot="ad-top" aria-label="Advertisement">
+					<span class="ad-label">Advertisement</span>
+					<div class="ad-frame">
+						{/* empty on purpose — house placeholder */}
+					</div>
+				</aside>
+
+				{/* Hero image from the post frontmatter (skipped if none) */}
+				<div class="hero-image">
+					{heroImage && <Image width={1020} height={510} src={heroImage} alt="" />}
+				</div>
+
+				<div class="prose">
+					{/* Publish date, optional updated date, post title */}
+					<div class="title">
+						<div class="date">
+							<FormattedDate date={pubDate} />
+							{
+								updatedDate && (
+									<div class="last-updated-on">
+										Last updated on <FormattedDate date={updatedDate} />
+									</div>
+								)
+							}
+						</div>
+						<h1>{title}</h1>
+						<hr />
+					</div>
+
+					{/* =========================================================
+					    AD SLOT 2 of 3 — "ad-in-1"
+					    Size to sell: 300×250 or 336×280
+					    Place: after the title, before the article text
+					    Usually the highest-value slot
+					    Later: put the creative inside .ad-frame
+					    ========================================================= */}
+					<aside class="ad-slot ad-in-1" data-ad-slot="ad-in-1" aria-label="Advertisement">
+						<span class="ad-label">Advertisement</span>
+						<div class="ad-frame">
+							{/* empty on purpose — house placeholder */}
+						</div>
+					</aside>
+
+					{/* Post body from the .md / .mdx file (text, images, YouTube) */}
+					<slot />
+
+					{/* =========================================================
+					    AD SLOT 3 of 3 — "ad-in-2"
+					    Size to sell: 300×250 or 336×280
+					    Place: after the article text
+					    Use for a second sponsor or AdSense remnant
+					    Later: put the creative inside .ad-frame
+					    ========================================================= */}
+					<aside class="ad-slot ad-in-2" data-ad-slot="ad-in-2" aria-label="Advertisement">
+						<span class="ad-label">Advertisement</span>
+						<div class="ad-frame">
+							{/* empty on purpose — house placeholder */}
+						</div>
+					</aside>
+				</div>
+			</article>
+		</main>
+
+		{/* Site footer */}
+		<Footer />
+	</body>
+</html>

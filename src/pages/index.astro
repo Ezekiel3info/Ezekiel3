@@ -1,0 +1,117 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: 0 auto;
+				padding: 1em;
+			}
+
+			/* Shared ad placeholder styles */
+			.ad-slot {
+				margin: 1.75rem auto;
+				text-align: center;
+			}
+			.ad-label {
+				display: block;
+				font-size: 0.7rem;
+				letter-spacing: 0.08em;
+				text-transform: uppercase;
+				color: rgb(var(--gray));
+				margin-bottom: 0.4rem;
+			}
+			.ad-frame {
+				margin: 0 auto;
+				background: color-mix(in srgb, rgb(var(--gray)) 12%, transparent);
+				border: 1px dashed color-mix(in srgb, rgb(var(--gray)) 35%, transparent);
+				border-radius: 8px;
+			}
+
+			/* AD SLOT: ad-top — 728×90 leaderboard */
+			.ad-top .ad-frame {
+				width: min(728px, 100%);
+				min-height: 90px;
+			}
+
+			/* AD SLOT: ad-in-1 and ad-in-2 — 336×280 rectangle */
+			.ad-in-1 .ad-frame,
+			.ad-in-2 .ad-frame {
+				width: min(336px, 100%);
+				min-height: 280px;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			{/* =========================================================
+			    AD SLOT 1 of 3 — "ad-top"
+			    Size to sell: 728×90
+			    Place: top of the homepage
+			    Later: put the ad inside .ad-frame
+			    ========================================================= */}
+			<aside class="ad-slot ad-top" data-ad-slot="ad-top" aria-label="Advertisement">
+				<span class="ad-label">Advertisement</span>
+				<div class="ad-frame">
+					{/* empty on purpose — house placeholder */}
+				</div>
+			</aside>
+
+			<h1>Ezekiel3 Info</h1>
+			<p>
+				So you found my site - Welcome!
+				<br /><br />
+				This is where I will store all the watchman materials that I have used. Additonally I will have speculative
+				scenario-building on news, technology and politics as blog-posts which I do not have in Youtube at the moment.
+				<br /><br />
+				I recommend to print out some of the materials, like for example the timeline, in case the digital versions
+				should not be available anymore at some point. Perhaps this would provide comfort to anyone that will find it
+				later on during those last 7 years. 🙏
+				<br /><br />
+				I hope this content will help and encourage you. 🙏❤️🎺🎶
+			</p>
+			<p>
+				<a href="/blog">Take me to the Materials</a>
+				<br />
+				<a href="/about">About</a>
+			</p>
+
+			{/* =========================================================
+			    AD SLOT 2 of 3 — "ad-in-1"
+			    Size to sell: 300×250 or 336×280
+			    Place: after the welcome text
+			    Later: put the ad inside .ad-frame
+			    ========================================================= */}
+			<aside class="ad-slot ad-in-1" data-ad-slot="ad-in-1" aria-label="Advertisement">
+				<span class="ad-label">Advertisement</span>
+				<div class="ad-frame">
+					{/* empty on purpose — house placeholder */}
+				</div>
+			</aside>
+
+			{/* =========================================================
+			    AD SLOT 3 of 3 — "ad-in-2"
+			    Size to sell: 300×250 or 336×280
+			    Place: bottom of the homepage
+			    Later: put the ad inside .ad-frame
+			    ========================================================= */}
+			<aside class="ad-slot ad-in-2" data-ad-slot="ad-in-2" aria-label="Advertisement">
+				<span class="ad-label">Advertisement</span>
+				<div class="ad-frame">
+					{/* empty on purpose — house placeholder */}
+				</div>
+			</aside>
+		</main>
+		<Footer />
+	</body>
+</html>
