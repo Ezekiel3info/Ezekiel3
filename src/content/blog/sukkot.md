@@ -1,7 +1,7 @@
 ---
 title: 'Sukkot, Feast of Tabernacles'
 description: 'The Feast of Tabernacles — notes and materials.'
-pubDate: 'Sep 25 2026'
+pubDate: 'Sep 28 2026'
 heroImage: '../../assets/sukkot2.jpg'
 ---
 
@@ -65,7 +65,7 @@ See Numbers 29:12–38 for offerings per Day details.
 </p>
 
 > The LORD (Yeshua, Jesus) in the Rock and the Fortress</br>
-> Hence the Israelites left from booths to Yeshua, Jesus. The Church has not and will not replace Israel, but the Bride  is the first to be "crafted in" by the Master Gardener God?
+> Hence the Israelites left from booths to Yeshua, Jesus. The Church has not and will not replace Israel, but the Bride  is the first to be "crafted in" by the Master Gardener God to the Mother Tree of Israel?
 
 <p>
     Psalm 18:1-6</br>
