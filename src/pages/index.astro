@@ -9,6 +9,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		
 		<style>
 			main {
 				width: 720px;
@@ -16,7 +17,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 				margin: 0 auto;
 				padding: 1em;
 			}
-
+			{/*
 			/* Shared ad placeholder styles */
 			.ad-slot {
 				margin: 1.75rem auto;
@@ -49,7 +50,10 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 				width: min(336px, 100%);
 				min-height: 280px;
 			}
+			*/}
 		</style>
+	
+		
 	</head>
 	<body>
 		<Header />
@@ -60,13 +64,14 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 			    Place: top of the homepage
 			    Later: put the ad inside .ad-frame
 			    ========================================================= */}
+			{/*
 			<aside class="ad-slot ad-top" data-ad-slot="ad-top" aria-label="Advertisement">
 				<span class="ad-label">Advertisement</span>
 				<div class="ad-frame">
-					{/* empty on purpose — house placeholder */}
+					{/* empty on purpose — house placeholder 
 				</div>
 			</aside>
-
+			*/}
 			<h1>Ezekiel3 Vault</h1>
 			<p>
 				So you found my Vault - Welcome! 🙏❤️🎺🎶
@@ -93,25 +98,27 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 			    Place: after the welcome text
 			    Later: put the ad inside .ad-frame
 			    ========================================================= */}
+			{/* 
 			<aside class="ad-slot ad-in-1" data-ad-slot="ad-in-1" aria-label="Advertisement">
 				<span class="ad-label">Advertisement</span>
 				<div class="ad-frame">
-					{/* empty on purpose — house placeholder */}
+					{/* empty on purpose — house placeholder 
 				</div>
 			</aside>
-
+			*/}
 			{/* =========================================================
 			    AD SLOT 3 of 3 — "ad-in-2"
 			    Size to sell: 300×250 or 336×280
 			    Place: bottom of the homepage
 			    Later: put the ad inside .ad-frame
-			    ========================================================= */}
+			    ========================================================= 
 			<aside class="ad-slot ad-in-2" data-ad-slot="ad-in-2" aria-label="Advertisement">
 				<span class="ad-label">Advertisement</span>
 				<div class="ad-frame">
-					{/* empty on purpose — house placeholder */}
+					{/* empty on purpose — house placeholder
 				</div>
 			</aside>
+			*/}
 		</main>
 		<Footer />
 	</body>

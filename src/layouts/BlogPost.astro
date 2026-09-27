@@ -111,14 +111,14 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				    Size to sell: 728×90 (leaderboard), full width on mobile
 				    Place: above the hero image
 				    Later: put AdSense or a sponsor <a><img></a> inside .ad-frame
-				    ========================================================= */}
+				    ========================================================= 
 				<aside class="ad-slot ad-top" data-ad-slot="ad-top" aria-label="Advertisement">
 					<span class="ad-label">Advertisement</span>
 					<div class="ad-frame">
-						{/* empty on purpose — house placeholder */}
+						{/* empty on purpose — house placeholder 
 					</div>
 				</aside>
-
+				*/}
 				{/* Hero image from the post frontmatter (skipped if none) */}
 				<div class="hero-image">
 					{heroImage && <Image width={1020} height={510} src={heroImage} alt="" />}
@@ -147,14 +147,14 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 					    Place: after the title, before the article text
 					    Usually the highest-value slot
 					    Later: put the creative inside .ad-frame
-					    ========================================================= */}
+					    ========================================================= 
 					<aside class="ad-slot ad-in-1" data-ad-slot="ad-in-1" aria-label="Advertisement">
 						<span class="ad-label">Advertisement</span>
 						<div class="ad-frame">
-							{/* empty on purpose — house placeholder */}
+							{/* empty on purpose — house placeholder 
 						</div>
 					</aside>
-
+					*/}
 					{/* Post body from the .md / .mdx file (text, images, YouTube) */}
 					<slot />
 
@@ -164,13 +164,14 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 					    Place: after the article text
 					    Use for a second sponsor or AdSense remnant
 					    Later: put the creative inside .ad-frame
-					    ========================================================= */}
+					    ========================================================= 
 					<aside class="ad-slot ad-in-2" data-ad-slot="ad-in-2" aria-label="Advertisement">
 						<span class="ad-label">Advertisement</span>
 						<div class="ad-frame">
-							{/* empty on purpose — house placeholder */}
+							{/* empty on purpose — house placeholder 
 						</div>
 					</aside>
+					*/}
 				</div>
 			</article>
 		</main>
