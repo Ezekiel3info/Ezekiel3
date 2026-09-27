@@ -30,3 +30,5 @@ Full Moon on 26th SEP 2026 started the Full Moon cycle after the previous one, w
 This Full Moon cycle will be extremely High watch, because it is the HARVEST MOON and the next full moon on SEP 26th 2026 will be the HUNTER'S MOON, perhaps alluding to last 7 years wrath period, Tribulation, although the last 3,5 years will then only be the Great Tribulation.
 <br><br>
 Additionally during this Full Moon cycle (Harvest Moon), Venus will turn into its "Morning Star"-phase on 24th October, EXACTLY on the day of the next Full Moon (Hunter's Moon). Coincidense or a sign? We will see soon my friends.
+
+- [Back to Topics overview](/blog)

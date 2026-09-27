@@ -28,3 +28,5 @@ Early Tishrei (first half)</mark>: Rosh Hashanah (1–2 Tishrei) — Day of Judg
 <b>Feast of Tabernacles, Sukkot</b>, on <mark>27th SEP 2026</mark>, will <mark>start the season of Zera (seed, offspring)</mark>. Will this be the season on which the <b>child is born</b> (<mark>Rapture</mark>)?
 <br><br>
 The month Mozayim, Libra, Scales or Cheschvan (Chava = Eve) is the month on which the rains start. Will this be the Waterbreaking before the child birth? Tradition teaches that Noah’s Flood began on the 17th of Cheshvan and ended on the 27th of the following year - the biggest physical waterbreaking ever in History, which will never happen again. But could it happen in the Spirit aka the Rapture of the Bride?
+
+- [Back to Topics overview](/blog)
