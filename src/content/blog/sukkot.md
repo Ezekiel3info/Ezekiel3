@@ -83,7 +83,26 @@ See Numbers 29:12–38 for offerings per Day details.
 </p>
 
 > Moses means "drawn out of the water", so the one drawn out from the water will carry the bones of Joseph (He will add, may God add" or the root Asaf "gather" or "take away") the one taken away! </br></br>
-> The whole Psalm is related also to the endtimes and the content is matching to the situation in the world today. Will 
+> Psalm18 describes perfectly the endtime and our Blessed Hope of being pulled out (to escape) from the world.
+
+<p>
+    Psalm 27:4-10</br>
+    'One thing have I desired of the LORD , that will I seek after; That I may <b>dwell in the house of the LORD</b> all the days of my life, To behold the beauty of the LORD , and to enquire in his temple. <b>For in the time of trouble he shall hide me in his pavilion</b>: In the secret of his <mark>tabernacle</mark> shall he hide me; he shall <b>set me up upon a rock</b>. And now shall mine head be lifted up, Above mine enemies round about me: Therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD . Hear, O LORD , when I cry with my voice: Have mercy also upon me, and answer me. When thou saidst , <b>Seek ye my face; my heart said unto thee, Thy face, LORD , will I seek</b>. Hide not thy face far from me; Put not thy servant away in anger: Thou hast been my help; Leave me not, neither forsake me, O God of my salvation. When my father and my mother forsake me, Then <mark>the LORD will take me up.</mark> '
+</p>
+
+> The word Tabernacle is Sukkah in Psalm27, the LORD will hide us in His Pavillion and in the secret of His sukkah, Sukkot?, He shall hide us? </br></br>
+> This is Rapture language and one of the old testament allusions to Rapture.
+> Talking about the secret of Sukkah, Sukkot - lets have a look at Exodus 14
+
+<p>
+    Exodus 14:1-3</br>
+    'And the LORD spake unto Moses, saying, Speak unto the children of Israel, that they turn and encamp before <b>Pi-hahiroth</b>, between <b>Migdol</b> and the sea, over against <b>Baal-zephon</b>: before it shall ye encamp by the sea. For Pharaoh will say of the children of Israel, They are entangled in the land, the wilderness hath shut them in. '
+</p>
+
+> Pi-hahiroth means "mouth of caverns"
+> Migdol means fortress
+> Baal-zephon means Lord of the North, Lord of the hidden, Lord of the Watchmen
+> So Israelites are instructed to encamp before the mouth of the caverns, between fortress and the sea and over against the <mark>Lord of the watchmen, Yeshua, Jesus</mark>.</br></br> The caverns in the earth are a perfect place to hide into - fortress not made with human hands. Between the fortress and the sea there will be the watchmen following the LORD, that is the place to encamp as Egypt started to come after them. 🙏❤️🎺🎶
 
 - [Back to Topics overview](/blog)
 
