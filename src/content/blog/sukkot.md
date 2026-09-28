@@ -102,7 +102,7 @@ See Numbers 29:12–38 for offerings per Day details.
 > Pi-hahiroth means "mouth of caverns"
 > Migdol means fortress
 > Baal-zephon means Lord of the North, Lord of the hidden, Lord of the Watchmen
-> So Israelites are instructed to encamp before the mouth of the caverns, between fortress and the sea and over against the <mark>Lord of the watchmen, Yeshua, Jesus</mark>.</br></br> The caverns in the earth are a perfect place to hide into - fortress not made with human hands. Between the fortress and the sea there will be the watchmen following the LORD, that is the place to encamp as Egypt started to come after them. 🙏❤️🎺🎶
+> So Israelites are instructed to encamp before the mouth of the caverns, between fortress and the sea and over against the <mark>Lord of the watchmen, Yeshua, Jesus</mark>.</br></br> The caverns in the earth are a perfect place to hide into - fortress not made with human hands. <b>Between the fortress (Yeshua, Jesus) and the sea (the worldly powers)</b> there will be the watchmen following the LORD, that is the place to encamp as Egypt started to come after them - a prefect analog to today. 🙏❤️🎺🎶
 
 - [Back to Topics overview](/blog)
 
