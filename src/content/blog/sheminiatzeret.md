@@ -23,6 +23,6 @@ https://www.youtube.com/watch?v=7kF46VUOgwU </br></br>
 
 <h4>Celebration of the Dedication of the 3rd Altar on Shemini Atzeret 2026?</h4>
 
-Could it be that the celebration idiom of Solomon sending people to their tents on Shemini Atzeret is an allusion to the Rapture?
+Could it be that the celebration idiom of Solomon sending people to their tents on Shemini Atzeret is an allusion to the Rapture? The parallel with the <mark>first Feast</mark> of Passover (one (1) day Feast) with the <mark>last feast</mark> of Shemini Atzeret (one (1) day Feast) weaves all the Biblical Feasts together starting with the Dedication of the Altar, sacrifice on that Altar and then the Celebration of that Dedication on Shemini Atzeret. Just like the candlestands on the Menorah are connected first to last, second to second to last and so on with the stem being the Holy Spirit poured out on the people after Jesus ascension, connecting the Trinity to ONE in the Stem of the Menorah.
 
 
