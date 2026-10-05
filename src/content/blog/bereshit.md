@@ -25,6 +25,9 @@ So lets have a closer look at the word in Hebrew Bible: Bereshit. Bereshit is wr
 
 Next letter is Shin, which looks like a W - it is the front or the teeth and on its own can mean destruction, devouring or eating. So far the word Bereshit is then BR(son) of A(God) is S(destroyed, devoured). The last two letters Yod (J, the hand) and Tav (t, the cross, the mark). Hence the whole word BRASJt becomes: <mark>The Son of God is devoured by own Hand on the Cross Sign</mark>. <b>The END was declared already in the first word</b> in the Bible. 
 
+<h4>The Pattern of Creation</h4>
+
+The pattern of creation is the most remarkable pattern, besides the pattern of Redemption.
 
 </br></br>
 
