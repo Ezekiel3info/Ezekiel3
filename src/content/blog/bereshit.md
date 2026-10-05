@@ -13,9 +13,17 @@ As we near to The Day, on which the reading of the Torah is began from Bereshit 
 <b>Revelation 1:8</b> <br>
 'I am Alpha and Omega, <mark>the beginning and the ending</mark>, saith the Lord, which is, and which was, and which is to come, the Almighty. '<br>
 
-So lets have a closer look at the word in Hebrew Bible: Bereshit. Bereshit is written as Bet, Resh, Alef, Shin, Yod, Tav. Already it seems off that the first letter is not Alef, but Bet, the second letter. Is this the Father placing His Son even before Himself as the Head of the Bible, His Word? Later we, of course, get a confirmation of this as we learn that Yeshua, Jesus, IS the WORD - He IS the head of the Bible both figuratively and factually. God the Father has given Him the power of the Head of the House (Bet, Resh = Son). So <b>Father (Alef) has placed Bet, Resh (which means Son) before Himself - given the Son the Authority</b> in the <mark>First Word of the Bible</mark>! HalleluJah!<br>
+So lets have a closer look at the word in Hebrew Bible: Bereshit. Bereshit is written as Bet(B), Resh(R), Alef(A), Shin(S), Yod(J), Tav(t). Already it seems off that the first letter is not Alef, but Bet, the second letter. Is this the Father placing His Son even before Himself as the Head of the Bible, His Word? Later we, of course, get a confirmation of this as we learn that Yeshua, Jesus, IS the WORD - He IS the head of the Bible both figuratively and factually. God the Father has given Him the power of the Head of the House (Bet, Resh = Son). So <b>Father (Alef) has placed Bet, Resh (which means Son) before Himself - given the Son the Authority</b> in the <mark>First Word of the Bible</mark>! HalleluJah!<br>
+
+![Bet](../../assets/bet.png)
+![Resh](../../assets/resh.png)
+![Alef](../../assets/alef.png)
+![Shin](../../assets/shin.png)
+![Yod](../../assets/yod.png)
+![Tav](../../assets/tav.png)
 
 
+Next letter is Shin, which looks like a W - it is the front or the teeth and on its own can mean destruction, devouring or eating. So far the word Bereshit is then BR(son) of A(God) is S(destroyed, devoured). The last two letters Yod (J, the hand) and Tav (t, the cross, the mark). Hence the whole word BRASJt becomes: <mark>The Son of God is devoured by own Hand on the Cross Sign</mark>. <b>The END was declared already in the first word</b> in the Bible. 
 
 
 </br></br>
