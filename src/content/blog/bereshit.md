@@ -27,7 +27,15 @@ Next letter is Shin, which looks like a W - it is the front or the teeth and on 
 
 <h4>The Pattern of Creation</h4>
 
-The pattern of creation is the most remarkable pattern, besides the pattern of Redemption.
+The pattern of creation is the second most remarkable pattern, right after the pattern of Redemption. A being having life in Him/Her is remarkable, but that life is only Good to be kept in Fathers house when it accepts the Creators Loving hand of salvation. ❤️
+
+In Genesis God created the world in six (6) days, which is incomprehensible for humans for both reasons: Firstly how could something this amazing be created in such a short time? And secondly why it took so long, surely God could have created everything in an instant? So in the end we are left with the conclusion that there is something more to the pattern itself - each day was important for creation and the exact things that were creted on each day is significant.
+
+<B>Day1</B></br>
+Heaven and the Earth were created. Darkness was upon the face of the deep, then God said "Let there be light" - the first words uttered by God. We know from the New Testament, that Jesus IS the Word AND the Light - He came from the Father like Words came and the causal effect of those Divine Words: there was Light. And God saw the Light (Father saw the Son) that it was Good. And God divided the Light from the darkness (Crucifixion reference?). And God called Light Day and darkness He called night. Night and Day, Light was separated from the darkness already on Day1 - 5 days before humans were even created!</br>
+
+<b>Day2</b></br>
+Day2
 
 </br></br>
 
